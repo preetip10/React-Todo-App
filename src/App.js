@@ -1,6 +1,6 @@
 import React from 'react';
-import Todos from './components/Todos';
-import Header from './components/layout/Header';
+import Todos from './components/todo/Todos';
+import Header from './components/todo/layout/Header';
 
 import './App.css';
 
